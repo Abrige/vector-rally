@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "it.unicam.cs.vectorrally"
-include("app")
+include("app", "javafx")
